@@ -1,4 +1,3 @@
-# Opens The Pygame Window
 import pygame
 
 # Initiates All The Pygame modules
